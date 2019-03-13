@@ -7,7 +7,7 @@
 # dependencies
 /node_modules
 /bower_components
-
+.tool-versions
 # misc
 /.sass-cache
 /connect.lock
